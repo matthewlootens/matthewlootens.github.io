@@ -1,0 +1,17 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+#header_wrap {
+  background: #532565;
+  background: linear-gradient(to top, #93103e, #532565);
+}
+#main_content_wrap {
+  background: #f2f2f2;
+}
+
+#footer_wrap {
+  background: #532565;
+}
+
